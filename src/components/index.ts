@@ -1,0 +1,5 @@
+export * from './Home'
+export * from './Contact'
+export * from './Portfolio'
+export * from './Resume'
+export * from './DemoCard'
